@@ -1,0 +1,1 @@
+2020-12-19 07:39:59: strlen() expects parameter 1 to be string, array given

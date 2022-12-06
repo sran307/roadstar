@@ -1,0 +1,213 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{font-family: 'Poppins', sans-serif!important;}
+
+::-webkit-scrollbar{width:5px;height:7px;}
+ 
+ *{scrollbar-width:thin;scrollbar-color:#fa4e1d;}
+ 
+ ::-webkit-scrollbar-track{box-shadow:inset 0 0 5px grey;border-radius:10px;height:5px}
+ 
+ ::-webkit-scrollbar-thumb{background:#fa4e1d;border-radius:10px;height:5px}
+ 
+ ::-webkit-scrollbar-thumb:hover{background:#fa4e1d;height:5px}
+
+.adminforlog {
+    width: 200px;
+}
+
+
+legend.col-form-label {
+    text-align: left;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #ccc;
+    color: #222;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+
+
+
+
+.chochomriz button.btn.btn-primary {
+    padding: 5px 24px;
+    background: #1173a6;
+    border: 0px;
+}
+
+body .dindankkz{display:none!important;}
+
+body .chrilozaz{display:none!important;}
+
+.sidebar-nav .nav-link {font-size: 15px;border-bottom: 1px solid #fff;}
+
+.sidebar-nav .nav-group { 
+    border-bottom: 1px solid #ccc3;
+}
+
+.sidebar-nav .nav-icon{display:none;}
+
+.dasbsidlaz {
+    width: 100px;
+    margin: 10px auto;
+}
+
+.sidebar{background:#000;}
+
+.sidebar-nav .nav-group-items .nav-link {
+    padding-left: 2rem;
+    font-size: 14px;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    font-size: 12px;
+    background: #1173a6;
+    color: #fff;
+    font-weight: 500;
+}
+
+.sidebar-nav .nav-link:hover { 
+    background: #1173a6;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #1173a6;
+    border-color: #1173a6;
+}
+
+.sr_admin_login .bg-light{background:transparent!important;}
+
+.sr_admin_login {background: url(../images/logos/adminbg.svg);
+    background-size: contain;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.sr_app_logo{  width: 120px; 
+    height: auto;
+    margin: 10px auto;
+}
+
+.form-control{font-size:14px;}
+
+
+.card-body.pb-0.d-flex.justify-content-between.align-items-start {
+    padding-bottom: 20px!important;
+}
+
+.sr_heading{position:relative;}
+
+.sr_heading h6{float: left;
+    position: relative;
+    top: 3px;}
+
+.sr_heading a{float:right;}
+
+.sr_heading a .btn{padding:3px 12px;margin-bottom:5px;}
+
+td.sr_action {
+    display: inline-flex;
+    position: relative;
+    width:100%;
+    padding:20px;
+}
+
+td.sr_action a{font-size:14px;}
+
+td.sr_action .btn{font-size:12px; margin-right: 5px;}
+ 
+
+.table-bordered>:not(caption)>* {
+    border-width: 0;
+}
+
+.table-bordered td, .table-bordered th {
+    border: 1px solid #dee2e6;
+    font-size: 14px;
+    vertical-align: middle;
+}
+
+
+.col-form-label {  font-size: 14px; }
+
+.chochomriz .form-control{border: 0px;
+    border-bottom: 1px solid #2a2c2e;
+    border-radius: 0px;
+}
+
+.sr_download{position:relative;}
+
+.sr_download div a .btn {
+    padding: 2px 12px;
+}
+
+.sr_download div{margin-left:100px;}
+
+.sr_download .sr_search {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+}
+
+
+.dropdown-menu.dropdown-menu-end.pt-0.show {
+    left: -40px!important;
+}
+
+.dropdown-menu.dropdown-menu-end.pt-0.show .dropdown-item{text-align:center;}
+
+.dropdown-menu.dropdown-menu-end.pt-0.show .dropdown-header{text-align:center;}
+
+
+.wrapper.d-flex.flex-column.min-vh-100.bg-light {
+    width: 84%;
+    margin-left:16%;
+}
+
+div#sidebar {
+    width: 16%;
+}
+
+.sidebar-nav .nav-group.show .nav-group-toggle {
+    color: #fff;
+}
+
+.sidebar-nav .nav-link{color:#fff;}
+
+.nippcontz .container, .nippcontz .container-lg{max-width:100%;margin:1px auto;}
+
+.nippcontz .container form{padding: 0px 20px 20px;
+    background: #fff;
+    box-shadow: 0px 0px 12px #ccc;
+}
+
+.nippcontz .container form input.form-control {
+    border: 0px;
+    border-bottom: 1px solid #b3acac;
+    border-radius: 0px;
+}
+
+.nippcontz .container form select.form-control {border: 0px;
+    border-bottom: 1px solid #b3acac;
+    border-radius: 0px;
+}
+
+.nippcontz .container form .form-group span {
+    font-size: 12px;
+    color:#fa4e1d;
+}
+
+.nippcontz .container .sr_action form{padding: 0px;
+    background: #fff;
+    box-shadow: none;
+}
+
+

@@ -1,0 +1,1 @@
+2020-12-19 08:14:11: imagepng(/home/syjd250oi96g/public_html/uploads/qrcodes/5fddb65312d5d.png): failed to open stream: No such file or directory

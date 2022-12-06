@@ -1,0 +1,13 @@
+
+
+Route::get('/pages/{name}', 'MyUIController@Pages')->name('pages');
+
+
+https://localhost/roadstar/about_pages
+
+https://localhost/roadstar/pages/about-us
+
+
+{{route('pages', ['name'->'about-us'])}}
+
+{{route('pages', $cms->page_name)}}
