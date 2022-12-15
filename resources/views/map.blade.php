@@ -23,22 +23,22 @@
 
     <!-- CoreUI CSS -->
     <!--<link rel="stylesheet" href="https://unpkg.com/@coreui/coreui/dist/css/coreui.min.css" crossorigin="anonymous">-->
-    <link rel="stylesheet" href="{{asset('public/css/coreui.min.css')}}" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{asset('css/coreui.min.css')}}" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/1.5.3/css/perfect-scrollbar.css" integrity="sha512-2xznCEl5y5T5huJ2hCmwhvVtIGVF1j/aNUEJwi/BzpWPKEzsZPGpwnP1JrIMmjPpQaVicWOYVu8QvAIg9hwv9w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!--official bootstrap css-->
-    <link rel="stylesheet" href="{{asset('public/css/bootstrap.min.css')}}" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}" crossorigin="anonymous">
     <link href="{{asset('css/fontawesome-all.min.css')}}" rel="stylesheet">
-     <link href="{{asset('css-admin/style.css')}}" rel="stylesheet">
+     <link href="{{asset('css/css-admin/style.css')}}" rel="stylesheet">
     <!--JQuery-->
 
-    <script src="{{asset('public/js/jquery-3.5.1.min.js')}}" crossorigin="anonymous"></script>
-    <script src="{{asset('public/js/perfect-scrollbar.min.js')}}" integrity="sha512-X41/A5OSxoi5uqtS6Krhqz8QyyD8E/ZbN7B4IaBSgqPLRbWVuXJXr9UwOujstj71SoVxh5vxgy7kmtd17xrJRw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="{{asset('public/js/popper.min.js')}}"></script>
-    <script src="{{asset('public/js/coreui.min.js')}}"></script>
+    <script src="{{asset('js/jquery-3.5.1.min.js')}}" crossorigin="anonymous"></script>
+    <script src="{{asset('js/perfect-scrollbar.min.js')}}" integrity="sha512-X41/A5OSxoi5uqtS6Krhqz8QyyD8E/ZbN7B4IaBSgqPLRbWVuXJXr9UwOujstj71SoVxh5vxgy7kmtd17xrJRw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="{{asset('js/popper.min.js')}}"></script>
+    <script src="{{asset('js/coreui.min.js')}}"></script>
 
 
    
-    <script src="{{asset('public/js/bootstrap.min.js')}}"  crossorigin="anonymous"></script>
+    <script src="{{asset('js/bootstrap.min.js')}}"  crossorigin="anonymous"></script>
 
     <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-bs4.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-bs4.min.js"></script>

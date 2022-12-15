@@ -83,7 +83,7 @@ body .chrilozaz{display:none!important;}
 
 .sr_admin_login .bg-light{background:transparent!important;}
 
-.sr_admin_login {background: url(../images/logos/adminbg.svg);
+.sr_admin_login {background: url(adminbg.svg);
     background-size: contain;
     background-position: center;
     min-height: 100vh;

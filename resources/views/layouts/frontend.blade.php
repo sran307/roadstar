@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- CoreUI CSS -->
-    <link rel="stylesheet" href="{{asset('public/css/coreui.min.css')}}" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{asset('public/css/perfect-scrollbar.css')}}" integrity="sha512-2xznCEl5y5T5huJ2hCmwhvVtIGVF1j/aNUEJwi/BzpWPKEzsZPGpwnP1JrIMmjPpQaVicWOYVu8QvAIg9hwv9w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <script src="{{asset('public/js/perfect-scrollbar.min.js')}}" integrity="sha512-X41/A5OSxoi5uqtS6Krhqz8QyyD8E/ZbN7B4IaBSgqPLRbWVuXJXr9UwOujstj71SoVxh5vxgy7kmtd17xrJRw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="{{asset('css/coreui.min.css')}}" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{asset('css/perfect-scrollbar.css')}}" integrity="sha512-2xznCEl5y5T5huJ2hCmwhvVtIGVF1j/aNUEJwi/BzpWPKEzsZPGpwnP1JrIMmjPpQaVicWOYVu8QvAIg9hwv9w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="{{asset('js/perfect-scrollbar.min.js')}}" integrity="sha512-X41/A5OSxoi5uqtS6Krhqz8QyyD8E/ZbN7B4IaBSgqPLRbWVuXJXr9UwOujstj71SoVxh5vxgy7kmtd17xrJRw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <title>@yield('title')</title>
-     <link href="{{asset('css-admin/style.css')}}" rel="stylesheet">
+     <link href="{{asset('css/css-admin/style.css')}}" rel="stylesheet">
     </head>
     <body class="sr_admin_login">        
         <div class="bg-light min-vh-100 d-flex flex-row align-items-center">
